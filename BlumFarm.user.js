@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         BlumFarm
 // @version      1.1
-// @namespace    KittenWoof
-// @author       KittenWoof
+// @namespace    SEYITECH
+// @author       SEYITECH
 // @match        https://telegram.blum.codes/*
 // @grant        none
 // @icon         https://raw.githubusercontent.com/ilfae/ilfae/main/logo.webp
